@@ -26,7 +26,7 @@
         }, 0);
     }
 
-    // Function to generate content and trigger file download
+    // another birdv dcvd
     function exportContent() {
         let contentToScan = document.querySelector('div.markdown-content-resource'); // Selecting by class name
         let contentToInclude = contentToScan ? contentToScan.querySelectorAll('div') : []; // Selecting child divs, with null check

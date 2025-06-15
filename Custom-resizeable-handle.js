@@ -40,7 +40,7 @@
                     }
                 });
 
-                // Style the resizable handle to be a blue triangle
+                // style
                 const $handle = $editorContainer.find('.ui-resizable-se');
                 $handle.css({
                     background: 'none',
